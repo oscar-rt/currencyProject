@@ -51,4 +51,6 @@ public class App {
         myWallet.printBalanceTotals();
         myWallet.printAsDisplay();
     }
+    
+
 }
